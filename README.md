@@ -24,6 +24,11 @@ Python was used to implement this project. As you can see there are 5 python fil
 
 We have used face-recognition and machine learning for training the model and recognizing the faces. The final application is made using [tkinter](https://docs.python.org/3/library/tkinter.html) for the GUI. We couldn't implement the actual doorlock since we weren't able to procure the electric lock and the relay switch by the project submission deadline. The code reflects the same.
 
+## Demo
+Check the album [here](https://imgur.com/a/zrpfHfP)
+
+![Start Window](https://imgur.com/bf4atLB.jpeg)
+
 ## References
 We have used the following videos and codebases to help us in making the project:
 1. [Build a Raspberry Pi Smart Door Lock Security System for your Smart Home!](https://www.youtube.com/watch?v=TX_WQMYc0SU&list=LL&index=23&t=480s)
