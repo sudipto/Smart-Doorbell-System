@@ -12,7 +12,7 @@ A person presses the capture button on the screen taking his/her picture. This p
 2. Raspberry Pi cam or USB webcam
 3. LCD Touchscreen 3.5" display
 4. Relay Switch
-5. Electic door lock
+5. Electric door lock
 
 ## Software
 Python was used to implement this project. As you can see there are 5 python files.
